@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#fdedf7;
+}
+h1{
+  text-align: center;
+  color: #251886;
+}
+p{
+  font-family:Arial;
+  color: #64627a;
+  text-align: center;
+}
+li{
+  color: #64627a;
+  text-align: left;
+}
